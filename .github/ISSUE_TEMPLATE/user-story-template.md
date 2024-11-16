@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-| Name  | Beschreibung | Akzeptanzkriterium |
-|--------|-----------------| ----------------------|
-| ... | ... | ... |
+| Beschreibung | Akzeptanzkriterium |
+|-----------------| ----------------------|
+| ... | ... |
 
 | Geschätzter Aufwand (Story Points) | Umgesetzt in Iteration | Tatsächlicher Aufwand (Std.) | Velocity (Std./Story Point) |
 |------------------------------------|------------------|-------------------------|------------------------------|
